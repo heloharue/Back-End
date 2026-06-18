@@ -15,5 +15,4 @@ if(n2===0){
 }else{
     console.log("a divisão é " , divisao);
 }
-//esta dando erro na soma 
 
